@@ -241,6 +241,12 @@ body {
     justify-content: center;
 }
 
+.modal-close-btn:hover {
+    cursor: pointer;
+    background-color: var(--IRIS);
+    color: var(--CORNFLOWER);
+}
+
 .is-hidden {
     pointer-events: none;
     opacity: 0;
